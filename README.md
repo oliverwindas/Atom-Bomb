@@ -1,33 +1,33 @@
-# Saddam
+# Atom-Bomb
 DDoS Tool that supports:
   * DNS Amplification (Domain Name System)
   * NTP Amplification (Network Time Protocol)
   * SNMP Amplification (Simple Network Management Protocol)
   * SSDP Amplification (Simple Service Discovery Protocol)
 
-![](http://2.bp.blogspot.com/-TkNwFJsznto/VOs3l0uSgDI/AAAAAAAAALQ/S5BNt8ULwpg/s1600/9.png)
+![](https://imgur.com/gallery/FkE0lGe)
 
-Read more about DDoS Amplification Attacks [here](http://www.pythonforpentesting.com/2015/02/ddos-amplification-attacks.html)
-
-Donation would be much appreciated: 1Gi5Rpz5RBEUpGknSwyRgqzk7b5bQ7Abp2
+Donation would be much appreciated: 14pB8q646XbCS9s6jKzsCavqhnzTCv3489
 # Requierments
  * OS Supports raw sockets
  * Python 2.7
- * [Pinject](https://github.com/OffensivePython/Pinject)
 
 # Usage
 ```
-	   _____           __    __              
-	  / ___/____ _____/ /___/ /___ _____ ___ 
-	  \__ \/ __ `/ __  / __  / __ `/ __ `__ \
-	 ___/ / /_/ / /_/ / /_/ / /_/ / / / / / /
-	/____/\__,_/\__,_/\__,_/\__,_/_/ /_/ /_/ 
-	https://github.com/OffensivePython/Saddam
-	   https://twitter.com/OffensivePython
+          _                  ____                  _     
+     /\  | |                |  _ \                | |    
+    /  \ | |_ ___  _ __ ___ | |_) | ___  _ __ ___ | |__  
+   / /\ \| __/ _ \| '_ ` _ \|  _ < / _ \| '_ ` _ \| '_ \ 
+  / ____ \ || (_) | | | | | | |_) | (_) | | | | | | |_) |
+ /_/    \_\__\___/|_| |_| |_|____/ \___/|_| |_| |_|_.__/ 
+                                                         
+                                                         
+	https://github.com/SMCbite1024/Atom-bomb
+	   https://twitter.com/SMCbite1024
 
 Usage: 
-Saddam.py target.com [options]        # DDoS
-Saddam.py benchmark [options]         # Calculate AMPLIFICATION factor
+atombomb.py target.com [options]        # DDoS
+atombomb.py benchmark [options]         # Calculate AMPLIFICATION factor
 
 
 Options:
