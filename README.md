@@ -5,7 +5,7 @@ DDoS Tool that supports:
   * SNMP Amplification (Simple Network Management Protocol)
   * SSDP Amplification (Simple Service Discovery Protocol)
 
-![](https://imgur.com/gallery/FkE0lGe)
+![](https://i.imgur.com/FkE0lGe.png)
 
 Donation would be much appreciated: 14pB8q646XbCS9s6jKzsCavqhnzTCv3489
 # Requierments
