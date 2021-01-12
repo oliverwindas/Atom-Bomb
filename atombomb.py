@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+ #!/usr/bin/env python
 import sys
 import time
 import socket
@@ -51,7 +51,7 @@ ATTACK = (
 	'     Sent      '
 	'|    Traffic    '
 	'|    Packet/s   '
-	'|     Bit/s     '
+	'|     Byte/s     '
 	'\n{}').format('-'*63)
 
 PORT = {
@@ -128,7 +128,7 @@ def Monitor():
 	while True:
 		try:
 			current = time.time() - start
-			bps = (nbytes*8)/current
+			bps = (nbytes)/current
 			pps = npackets/current
 			out = FMT.format(Calc(npackets, 1000), 
 				Calc(nbytes, 1024, 'B'), Calc(pps, 1000, 'pps'), Calc(bps, 1000, 'bps'))
