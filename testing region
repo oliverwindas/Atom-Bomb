@@ -1,3 +1,3 @@
-git clone https://github.com/flexingonlamers/Amp/blob/master/ntp.c
+git clone https://github.com/flexingonlamers/Amp.git
 gcc -o ntp ntp.c -pthread
 ./ntp
