@@ -22,7 +22,7 @@ LOGO = r'''
  /_/    \_\__\___/|_| |_| |_|____/ \___/|_| |_| |_|_.__/ 
                                                          
                                                          
-	https://github.com/SMCbite1024/Atom-bomb
+	https://github.com/protocolpenguin/Atom-bomb
 	   https://twitter.com/SMCbite1024
 '''
 
